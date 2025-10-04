@@ -1,0 +1,15 @@
+GUID b5b796db152045528fa3b36ca3e974e5
+Type Spawn
+ID 1014
+Roots 2
+Root_0_Spawn_ID 94
+Root_0_Weight 25
+Root_1_Spawn_ID 331
+Root_1_Weight 25
+Root_2_Spawn_ID 639
+Root_2_Weight 10
+Tables 2
+Table_0_Asset_ID 6969
+Table_0_Weight 2
+Table_1_Asset_ID 6973
+Table_1_Weight 2
