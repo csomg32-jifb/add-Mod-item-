@@ -1,0 +1,40 @@
+GUID 89d4f7d73d334a7fb5681d7929a571d3
+
+
+
+
+
+Type RewardsList
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 40009
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+
+Rewards 7
+
+Reward_0_Type Flag_Short
+Reward_0_ID 40009
+Reward_0_Value 1
+Reward_0_Modification Decrement
+Reward_0_GrantDelaySeconds 0.5
+Reward_1_Type Player_Life_Health
+Reward_1_Value 3
+Reward_1_GrantDelaySeconds 0.25
+Reward_2_Type Player_Life_Food
+Reward_2_Value 1
+Reward_2_GrantDelaySeconds 0.25
+Reward_3_Type Player_Life_Virus
+Reward_3_Value 1
+Reward_3_GrantDelaySeconds 0.25
+Reward_4_Type Rewards_List_Asset
+Reward_4_GUID 89d4f7d73d334a7fb5681d7929a571d3
+Reward_4_GrantDelaySeconds 0.25
+Reward_5_Type Rewards_List_Asset
+Reward_5_GUID d08e3e2b25ca4cf48b2012c42c70c464
+Reward_5_GrantDelaySeconds 0.25
+Reward_6_Type Rewards_List_Asset
+Reward_6_GUID e698544e18a14430bcd9fa273fa0e7a2
+Reward_6_GrantDelaySeconds 0.25
