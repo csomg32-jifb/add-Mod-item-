@@ -1,0 +1,23 @@
+GUID 324ce9301603461086daf9f2a91e7830
+Type Trap
+Rarity Mythical
+Useable Barricade
+Build Wire
+ID 48622
+
+Size_X 2
+Size_Y 3
+Size_Z 0.62
+
+Health 2000
+Range 4
+Radius 0.1
+Offset 0.74
+
+Player_Damage 150
+Zombie_Damage 250
+Animal_Damage 250
+
+Broken
+
+Explosion 36

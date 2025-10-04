@@ -1,0 +1,40 @@
+GUID 87cbb88bf8984b7aa00d27965f9a83e3
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Wire
+ID 48621
+
+Size_X 2
+Size_Y 3
+Size_Z 0.62
+
+Health 2000
+Range 4
+Radius 0.1
+Offset 0.74
+
+Player_Damage 75
+Zombie_Damage 250
+Animal_Damage 250
+
+Broken
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 490
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 28
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 67
+Blueprint_0_Supply_3_Amount 10
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

@@ -1,0 +1,34 @@
+GUID 226fd4b58be248be92411dfbfd22dd83
+Type Sentry
+Rarity Epic
+Useable Barricade
+Build Sentry
+ID 48608
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 500
+Range 4
+Radius 0.1
+Offset 1.0
+
+Storage_X 6
+Storage_Y 3
+Display
+Locked
+Mode Neutral
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48602
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+Infinite_Quality true

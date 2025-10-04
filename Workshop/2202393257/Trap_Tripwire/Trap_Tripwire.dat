@@ -1,0 +1,37 @@
+GUID 064b4d8e464a4390beb13fdf941afdde
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Wire
+ID 48615
+
+Size_X 1
+Size_Y 1
+Size_Z 0.16
+
+Health 1
+Range 4
+Radius 0.1
+Offset 0.12
+
+Player_Damage 30
+Zombie_Damage 100
+Animal_Damage 100
+
+Explosion 48615
+Vulnerable
+Unrepairable
+Backward
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 381
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

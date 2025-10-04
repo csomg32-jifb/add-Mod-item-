@@ -1,0 +1,180 @@
+ManifestFileVersion: 0
+CRC: 1341885208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9295a4a5f4575e49ebf6b80904202375
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68a7fd44dfcb7c397fd676ba3d68fad2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Harvester_D/Clip.prefab
+- Assets/Sentries_Traps/Trap_Tesla/Clip.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Red/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile/Nav.prefab
+- Assets/Sentries_Traps/Trap_Harvester_D/Animations.prefab
+- Assets/Sentries_Traps/Trap_Propeller/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Item.prefab
+- Assets/Sentries_Traps/Trap_Propeller_D/Nav.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Use.mp3
+- Assets/Sentries_Traps/Trap_Buzzsaw/Item.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw/Animations.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Clip.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Use.mp3
+- Assets/Sentries_Traps/Trap_Harvester_Green/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Clip.prefab
+- Assets/Sentries_Traps/Trap_Tesla_D/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Nav.prefab
+- Assets/Sentries_Traps/Trap_Tripwire/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Use.mp3
+- Assets/Sentries_Traps/Trap_Tesla_D/Use.mp3
+- Assets/Sentries_Traps/Trap_Harvester_D/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile/Clip.prefab
+- Assets/Sentries_Traps/Trap_Propeller_D/Animations.prefab
+- Assets/Sentries_Traps/Trap_Propeller/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Item.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw_D/Use.mp3
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Hostile/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Nav.prefab
+- Assets/Sentries_Traps/Trap_Propeller/Use.mp3
+- Assets/Sentries_Traps/Effect_Tripwire/Effect.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly/Nav.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Item.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Red/Use.mp3
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Use.mp3
+- Assets/Sentries_Traps/Trap_Propeller_D/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Animations.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Clip.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Red/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Harvester_D/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Nav.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Clip.prefab
+- Assets/Sentries_Traps/Trap_Tesla/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Propeller_D/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Friendly/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Use.mp3
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw_D/Animations.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Nav.prefab
+- Assets/Sentries_Traps/Trap_Propeller/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Nav.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw_D/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Animations.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Red/Animations.prefab
+- Assets/Sentries_Traps/Trap_Harvester_D/Use.mp3
+- Assets/Sentries_Traps/Trap_Propeller/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile/Animations.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Green/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Red/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Animations.prefab
+- Assets/Sentries_Traps/Trap_Propeller_D/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile_IA/Nav.prefab
+- Assets/Sentries_Traps/Trap_Tesla/Use.mp3
+- Assets/Sentries_Traps/Trap_Tesla/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Hostile/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral_IA/Animations.prefab
+- Assets/Sentries_Traps/Trap_Tripwire/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Tesla_D/Item.prefab
+- Assets/Sentries_Traps/Trap_Tesla_D/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Propeller_D/Use.mp3
+- Assets/Sentries_Traps/Trap_Buzzsaw_D/Clip.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly/Use.mp3
+- Assets/Sentries_Traps/Trap_Propeller/Nav.prefab
+- Assets/Sentries_Traps/Trap_Tripwire/Animations.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Green/Use.mp3
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Use.mp3
+- Assets/Sentries_Traps/Trap_Tesla/Barricade.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Clip.prefab
+- Assets/Sentries_Traps/Sentry_II_Friendly_IA/Item.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Neutral_IA/Nav.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw_D/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Nav.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly_IA/Barricade.prefab
+- Assets/Sentries_Traps/Trap_Tripwire/Use.mp3
+- Assets/Sentries_Traps/Sentry_Flat_Neutral/Nav.prefab
+- Assets/Sentries_Traps/Trap_Buzzsaw/Clip.prefab
+- Assets/Sentries_Traps/Trap_Tesla_D/Animations.prefab
+- Assets/Sentries_Traps/Sentry_II_Hostile_IA/Use.mp3
+- Assets/Sentries_Traps/Sentry_II_Friendly/Clip.prefab
+- Assets/Sentries_Traps/Sentry_Flat_Friendly/Animations.prefab
+- Assets/Sentries_Traps/Trap_Tripwire/Item.prefab
+- Assets/Sentries_Traps/Sentry_II_Neutral/Nav.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Green/Animations.prefab
+- Assets/Sentries_Traps/Trap_Harvester_Green/Item.prefab
+Dependencies: []

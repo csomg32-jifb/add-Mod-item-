@@ -1,0 +1,22 @@
+GUID 3c7daa38766646658c46f95081c8f3f0
+Type Trap
+Rarity Mythical
+Useable Barricade
+Build Spike
+ID 48619
+
+Size_X 2
+Size_Y 3
+Size_Z 0.66
+
+Health 1000
+Range 4
+Radius 1.0
+Offset 1.625
+
+Player_Damage 150
+Zombie_Damage 200
+Animal_Damage 200
+
+Explosion 36
+
