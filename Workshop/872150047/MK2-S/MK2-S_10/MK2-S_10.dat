@@ -1,0 +1,29 @@
+GUID ede14626032b4727b915446dde3a3f9b
+Type Magazine
+Rarity Uncommon
+ID 6988
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 2
+Count_Max 10
+
+Calibers 1
+Caliber_0 18
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6988
+Blueprint_1_Build 30
+
+Paintable
