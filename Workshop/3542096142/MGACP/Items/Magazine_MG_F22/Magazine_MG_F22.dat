@@ -1,0 +1,32 @@
+GUID ed75aee5596040448cbf9e19e800d01b
+Type Magazine
+Rarity Common
+ID 25115
+
+Bundle_Override_Path Items/Magazine_MG_Mig17
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 250
+Count_Min 250
+Count_Max 250
+
+Calibers 1
+Caliber_0 25114
+
+Tracer 0
+Pellets 1
+
+Range 0
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 25100
+Explosive

@@ -1,0 +1,197 @@
+GUID aa624f025d63413fbdba5f576e0bcdfc
+Type Vehicle
+Rarity Common
+ID 25100
+
+Physics_Profile 2de9d207f7ab4f90a8618adc941bc690
+
+Speed_Min -2
+Speed_Max 36
+
+Steer_Min 30
+Steer_Max 30
+
+Brake 50
+Lift 5
+
+Exit 4
+
+Cam_Driver_Offset 0.0
+
+Fuel 1000
+Fuel_Burn_Rate 1
+
+Health_Min 1200
+Health_Max 1200
+Health 1200
+
+LockMouse
+Engine Plane
+Traction
+Sleds
+Reclined
+BatteryMode_Sirens None
+
+Cam_Follow_Distance 14
+
+Air_Turn_Responsiveness 2
+Air_Steer_Min 32
+Air_Steer_Max 32
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+
+Invulnerable
+Tires_Invulnerable
+LockMouse
+
+Pitch_Drive 0.008
+
+Turrets 1
+
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 25114
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+
+Has_Clip_Prefab false
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.225
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.075
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.075
+	}
+]
+
+ExplosionBurnMaterialSections
+[
+	{
+		Path Models/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Model_1
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Front_Main/Front/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Front_Main/Hatch_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Front_Main/Hatch_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Left_Main/Left/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Left_Main/Hatch_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Left_Main/Hatch_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Right_Main/Right/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Right_Main/Hatch_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Landing_Gears/Right_Main/Hatch_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Flaps/Front_Left/Rot/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Flaps/Front_Right/Rot/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Flaps/Center_Horiz/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Flaps/Center_Vert_Left/Rot/Model_0
+		AllMaterials true
+	}
+	{
+		Path Models/Flaps/Center_Vert_Right/Rot/Model_0
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_2/Model_0
+		AllMaterials true
+	}
+	{
+		Path Objects/Steer/VisibleSteer
+		AllMaterials true
+	}
+	{
+		Path Rotors/Rotor_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Rotors/Rotor_0/Model_1
+		AllMaterials true
+	}
+	{
+		Path Rotors/Rotor_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Rotors/Rotor_1/Model_1
+		AllMaterials true
+	}
+]

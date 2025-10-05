@@ -1,0 +1,26 @@
+Main
+├── Effects
+│   ├── Effect_Explosion_AP ─────────────────────── 25100 ─── 975d29787451485fb812cea322e674ff
+│   ├── Effect_Tracer_Red ───────────────────────── 25101 ─── b012061948b949358aa4471349cc5da1
+│   ├── Effect_Muzzle_Small ─────────────────────── 25111 ─── 65995f3fe49c405e826025fe2259b439
+│   └── Effect_Casing_Small ─────────────────────── 25112 ─── 38029957db904ca99055d7a2fae11db5
+│── Items
+│   │── Weapon_MG_Mig17 ─────────────────────────── 25102 ─── 983079db7cde48e489c75c83f72f2fcf
+│   │── Magazine_MG_Mig17 ───────────────────────── 25103 ─── 8cf13694f6f54edfb565b02327c50599
+│   │── Weapon_MG_Blackhawk ─────────────────────── 25106 ─── 1cfeaa6f90cf4f9698171fccfead26c4
+│   │── Magazine_MG_Blackhawk ───────────────────── 25107 ─── 9e7e3f4be59b43a6add7adaf44ac1d47
+│   │── Weapon_MG_Apache ────────────────────────── 25109 ─── 29fccc533245401885e26face016e8f8
+│   │── Magazine_MG_Apache ──────────────────────── 25110 ─── 6b9a4b6eb03e40218fea71f39fa00210
+│   │── Weapon_MG_F22 ───────────────────────────── 25114 ─── e6ab5f8812d542eab57f3d1c61471cdf
+│   │── Magazine_MG_F22 ─────────────────────────── 25115 ─── ed75aee5596040448cbf9e19e800d01b
+│   │── Weapon_MG_EuroFighter ───────────────────── 25117 ─── 32c41b29ebf74252889b362ebdde9fab
+│   │── Magazine_MG_EuroFighter ─────────────────── 25118 ─── 3dd978eea86c4f659fbad6eb6d41e751
+│   │── Weapon_MG_Harrier ───────────────────────── 25120 ─── 26b4429316d7401db4c52d7cb01ae18f
+│   └── Magazine_MG_Harrier ─────────────────────── 25121 ─── 214bc24b1c264995bd8985ddcdafe572
+└── Vehicles
+    │── Vehicle_Mig17 ───────────────────────────── 25104 ─── 4efcb228fb3f472c80408995cb3fd1d2
+	│── Vehicle_Blackhawk ───────────────────────── 25105 ─── d63cb1c332a24467bbd1cb3c814473c4
+	│── Vehicle_Apache ──────────────────────────── 25108 ─── 8077a02ffa554cb99fc74b6aeadeeeec
+	│── Vehicle_F22 ─────────────────────────────── 25113 ─── aa624f025d63413fbdba5f576e0bcdfc
+	│── Vehicle_EuroFighter ─────────────────────── 25116 ─── 129d877c2b4a44f680686fc3ca87bc68
+	└── Vehicle_Harrier ─────────────────────────── 25119 ─── 87a4dcc2560b44c398961f35beb00e84

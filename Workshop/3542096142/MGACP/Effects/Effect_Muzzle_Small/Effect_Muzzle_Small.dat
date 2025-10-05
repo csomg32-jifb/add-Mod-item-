@@ -1,0 +1,10 @@
+GUID 65995f3fe49c405e826025fe2259b439
+Type Effect
+ID 25111
+
+Lifetime 5
+
+Randomize_Rotation False
+
+Relevant_Distance 1000
+Spawn_On_Dedicated_Server

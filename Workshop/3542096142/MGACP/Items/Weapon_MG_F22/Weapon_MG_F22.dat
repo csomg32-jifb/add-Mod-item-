@@ -1,0 +1,55 @@
+GUID e6ab5f8812d542eab57f3d1c61471cdf
+Type Gun
+Rarity Common
+Useable Gun
+Slot Primary
+ID 25114
+
+Bundle_Override_Path Items/Weapon_MG_Mig17
+
+Magazine 25115
+Ammo_Min 250
+Ammo_Max 250
+
+Auto
+
+Caliber 25114
+
+Range 500
+Firerate 3
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 15
+Object_Damage 15
+
+Invulnerable
+
+Aim_In_Duration 0.3
+Spread_Aim 1
+Spread_Angle_Degrees 0.85
+
+Muzzle 0
+Shell 0
+
+Reload_Time 11
+Turret

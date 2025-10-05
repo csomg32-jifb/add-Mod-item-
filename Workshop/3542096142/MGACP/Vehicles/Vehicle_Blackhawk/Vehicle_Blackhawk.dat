@@ -1,0 +1,194 @@
+GUID d63cb1c332a24467bbd1cb3c814473c4
+Type Vehicle
+Rarity Epic
+ID 25104
+
+Valid_Speed_Horizontal 150
+
+Speed_Min -200
+Speed_Max 16
+
+Brake 2000
+
+Steer_Min 50
+Steer_Max 50
+
+Fuel 2000
+Fuel_Burn_Rate 1
+
+BatteryMode_Driving Charge
+BatteryMode_Sirens None
+BatteryMode_Headlights None
+BatteryMode_Empty None
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 14
+Cam_Passenger_Offset -0.2
+Cam_Driver_Offset 0
+
+Pitch_Idle 1.0
+Pitch_Drive 0.01
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+Tires_Invulnerable
+
+Has_Clip_Prefab False
+
+Turrets 2
+
+Turret_0_Seat_Index 2
+Turret_0_Item_ID 25106
+Turret_0_Yaw_Min -45
+Turret_0_Yaw_Max 45
+Turret_0_Pitch_Min 0
+Turret_0_Pitch_Max 90
+
+Turret_1_Seat_Index 3
+Turret_1_Item_ID 25106
+Turret_1_Yaw_Min -45
+Turret_1_Yaw_Max 45
+Turret_1_Pitch_Min 0
+Turret_1_Pitch_Max 90
+
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.05
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.05
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+		ModelSuspensionOffset -0.2
+	}
+]
+
+ExplosionBurnMaterialSections
+[
+	{
+		Path Model_0
+		AllMaterials true
+	}
+	{
+		Path Model_1
+		AllMaterials true
+	}
+	{
+		Path Model_2
+		AllMaterials true
+	}
+	{
+		Path Model_3
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Wheels/Wheel_2/Model_0
+		AllMaterials true
+	}
+	{
+		Path Objects/Steer
+		AllMaterials true
+	}
+	{
+		Path Objects/Steer_1
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_2/Yaw/Pitch/Model_2
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_2/Yaw/Pitch/Model_2/Model_2
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_2/Yaw/Pitch/Model_2/Model_2/Model_2_Particle
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_2/Yaw/Pitch/Model_2/Model_2/Model_2_Agent
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_3/Yaw/Pitch/Model_2
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_3/Yaw/Pitch/Model_2/Model_2
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_3/Yaw/Pitch/Model_2/Model_2/Model_2_Particle
+		AllMaterials true
+	}
+	{
+		Path Turrets/Turret_3/Yaw/Pitch/Model_2/Model_2/Model_2_Agent
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_0/Model_0
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_0/Model_1
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_0/Model_2
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_1/Model_0
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_1/Model_1
+		AllMaterials true
+	}
+	{
+		Path Blades/Blade_1/Model_2
+		AllMaterials true
+	}
+]
