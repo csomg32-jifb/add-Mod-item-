@@ -1,0 +1,22 @@
+GUID ba6f2014ebac49ceab8bbc48df2ee73f
+
+Type Supply
+Rarity Legendary
+ID 22216
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 22216
+Blueprint_0_Product 22214
+Blueprint_0_Products 6
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

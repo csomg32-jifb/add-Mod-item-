@@ -1,0 +1,18 @@
+GUID 9aaf088a86034c6bbb803f6a51ecd888
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 22213
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Quality_Min 50
+Quality_Max 100
+
+Food 75
+Water 75
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,22 @@
+GUID 9376c58c4dc341efa5a77cfeff1777b6
+
+Type Supply
+Rarity Legendary
+ID 22215
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 22215
+Blueprint_0_Product 22211
+Blueprint_0_Products 6
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
