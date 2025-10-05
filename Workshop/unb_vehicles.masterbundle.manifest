@@ -1,0 +1,229 @@
+ManifestFileVersion: 0
+CRC: 2076369785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6359be52cf4b14aebb0d9ebe32497062
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56add649549a046b7bc36d2766d62adb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 75
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78740986f845bd943b99707a83731520, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5b6c0e528f36d54e96c15dbac815a92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6574c231b4b6942a07bda09514bf64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4020c90a0c8f8a74ab7f128332a6c1a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 020c0b1dc20fb7c4da82870f6c16ee53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 895512359
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+- Class: 1818360608
+  Script: {instanceID: 0}
+- Class: 1818360609
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/50cal_BMG/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/OFT/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_MD500_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Pas_Weapon/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2A46M/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Abrams/M1A2_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/3BK18M/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/BT/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/BZT_44_Box/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M242/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M7_Bombs_8x/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/8x_Optic/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/T72/T72_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/AP_Hit_Medium/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/Tracer_Default_Medium/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/NSVT/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/ATGM_Hit/Fire.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BlackHawk/UH_60_Gray/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/5x_Optic/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Driver_Smokes_Weapon_8x/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/3x_Optic/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/8x_Optic/Sight.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/T72/T72_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2A46M/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Emplaced_M2/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/3BK18M/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/ZOF26/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M792/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/OFT/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M791/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Humvee/HMMWV_M2_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BlackHawk/UH_60_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BTR80/BTR_80_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/B_32/Magazine.prefab
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2\u041042/Reload.WAV"
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/APFSDS/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M2/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/3x_Optic/Sight.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M2/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Abrams/M1A2_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Bradley/M2A1_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Driver_Smokes_Weapon_8x/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/NSVT/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Kamaz/KamAZ_5350_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Konkurs_ATGM/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/ZOF26/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Konkurs_ATGM/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/HE_Hit_Large/Fire.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/HE_T/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/AssetBundleCustomData.asset
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/Tracer_Red_Medium/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BlackHawk/UH_60_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/HE_Hit_Large/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/MI8/MI_8_Gray/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M2/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Emplaced_M2/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Humvee/HMMWV_M2_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2A46M/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/NSVT/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/AP_Hit_Large/Fire.WAV
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/\u041C256/Item.prefab"
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/MI8/MI_8_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Driver_Smokes_Weapon_8x/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Kamaz/KamAZ_5350_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/APFSDS/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/50cal_BMG/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M792/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Abrams/M1A2_Abrams_Clickbait_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BTR80/BTR_82A_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/KPVT/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/BGM_TOW_II/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Stryker/M1126_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M7_Bombs_8x/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Sights/5x_Optic/Sight.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/HE_T/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/AP_Hit_Large/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/T72/T72_V2_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/TOW_II_Tube/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/B_32/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Hemtt/M977_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/50cal_Hit/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Tigr/Tigr_M_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/HEAT_MP/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/HEAT_MP/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Tigr/Tigr_M_Forest/Vehicle.prefab
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2\u041042/Item.prefab"
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/Konkurs_Tube/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/ATGM_Hit/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/M791/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Abrams/M1A2_Abrams_Clickbait_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/HE_Hit_Medium/Effect.prefab
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/\u041C256/Shoot.WAV"
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/TOW_II_Tube/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BMP2/BMP2_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/MI8/MI_8_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/HE_Hit_Medium/Fire.WAV
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/\u041C256/Reload.WAV"
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BTR80/BTR_80_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Pas_Weapon/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/T72/T72_V2_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/BT/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Konkurs_ATGM/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M242/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/50cal_Hit/Fire.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/Konkurs_Tube/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_MD500_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BMP2/BMP2_Desert/Vehicle.prefab
+- "Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/2\u041042/Shoot.WAV"
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/AP_Hit_Medium/Fire.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/BZT_44_Box/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Emplaced_M2/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/3BM42/Magazine.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/BGM_TOW_II/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/M242/Shoot.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Hemtt/M977_Desert/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_MD500_Gray/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/KPVT/Reload.WAV
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Effects/Tracer_Green_Small/Effect.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/BTR80/BTR_82A_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Stryker/M1126_Forest/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/LittleBird/MH_6_Gray/Vehicle.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/KPVT/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/BGM_TOW_II/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Main/Cannons/Ammo/3BM42/Item.prefab
+- Assets/Made_by_Trigan/UNB_Vehicles/Vehicles/Bradley/M2A1_Desert/Vehicle.prefab
+Dependencies: []
