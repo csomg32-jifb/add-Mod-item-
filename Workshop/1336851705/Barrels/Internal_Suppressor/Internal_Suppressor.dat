@@ -1,0 +1,14 @@
+GUID b5a68d459fae4d2ca45023da35bf1e29
+Type Barrel
+ID 7308
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Silenced 
+Volume 0.3
+
+Ballistic_Drop 1.1
+
+Exclude_From_Master_Bundle

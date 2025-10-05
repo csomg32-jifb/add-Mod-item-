@@ -1,0 +1,16 @@
+GUID e3544ac006d04b4a869b3e5843f7df8f
+Type Spawn
+ID 7303
+Roots 2
+Root_0_Spawn_ID 216
+Root_0_Weight 25
+Root_1_Spawn_ID 217
+Root_1_Weight 25
+
+Tables 3
+Table_0_Asset_ID 7302
+Table_0_Weight 3
+Table_1_Asset_ID 7304
+Table_1_Weight 3
+Table_2_Asset_ID 7303
+Table_2_Weight 3

@@ -1,0 +1,14 @@
+GUID 1c77a3898c1146b0a5227136b4fc35ac
+Type Barrel
+ID 7299
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Silenced 
+Volume 0.3
+
+Ballistic_Drop 1.1
+
+Exclude_From_Master_Bundle

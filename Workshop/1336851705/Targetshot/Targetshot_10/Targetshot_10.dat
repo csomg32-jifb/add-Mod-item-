@@ -1,0 +1,31 @@
+GUID 1248dc65e4764524a4d62aa85b8ebeb9
+Type Magazine
+Rarity Uncommon
+ID 7304
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 2
+Count_Max 10
+
+Calibers 1
+Caliber_0 50
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 7304
+Blueprint_1_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle

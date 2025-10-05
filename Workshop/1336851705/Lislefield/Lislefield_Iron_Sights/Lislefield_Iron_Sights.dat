@@ -1,0 +1,11 @@
+GUID fc201f142b6548cab09d627133e9b057
+Type Sight
+ID 7324
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Paintable
+
+Exclude_From_Master_Bundle
