@@ -1,0 +1,11 @@
+GUID 9bdf712458214e9786af29c06a1c0b5a
+Type Sight
+ID 7306
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Paintable
+
+Exclude_From_Master_Bundle
