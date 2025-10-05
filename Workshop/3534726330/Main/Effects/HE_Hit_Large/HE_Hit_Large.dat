@@ -1,0 +1,15 @@
+GUID 27393d5e945b45b69e9e03e8a328eba0
+
+Type Effect
+ID 40008
+
+Lifetime 30
+
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 18.5
+
+Spawn_Explosion_On_Dedicated_Server
+Spawn_On_Dedicated_Server
+Relevant_Distance 9999
+
+Blast 137

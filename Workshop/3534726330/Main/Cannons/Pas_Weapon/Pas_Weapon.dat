@@ -1,0 +1,50 @@
+GUID 7a954ec8f5a24ca4b63d69594a528ba2
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 40015
+
+Sight
+Magazine
+
+Ammo_Min 0
+Ammo_Max 0
+
+Auto
+
+Caliber 40015
+
+Range 1
+Ballistic_Steps 0.1
+Ballistic_Travel 1
+Firerate 50
+Action Trigger
+
+Player_Damage 0
+Player_Leg_Multiplier 0
+Player_Arm_Multiplier 0
+Player_Spine_Multiplier 0
+Player_Skull_Multiplier 0
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0
+Zombie_Arm_Multiplier 0
+Zombie_Spine_Multiplier 0
+Zombie_Skull_Multiplier 0
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0
+Animal_Spine_Multiplier 0
+Animal_Skull_Multiplier 0
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Reload_Time 1
+
+Turret

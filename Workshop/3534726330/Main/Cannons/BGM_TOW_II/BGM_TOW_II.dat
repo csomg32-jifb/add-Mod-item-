@@ -1,0 +1,48 @@
+GUID b307c119de0f478797735719970dc1ac
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 40005
+
+Sight 40019
+Magazine 40004
+
+Ammo_Min 2
+Ammo_Max 2
+
+Semi
+
+Caliber 40005
+
+Range 5
+Firerate 13
+Action Trigger
+
+Player_Damage 65
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 85
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Reload_Time 7
+
+Turret

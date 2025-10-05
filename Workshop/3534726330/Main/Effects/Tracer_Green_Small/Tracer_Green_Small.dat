@@ -1,0 +1,13 @@
+GUID f9a97a1294114c0489f4e59397178081
+
+Type Effect
+ID 40020
+
+Lifetime 60
+
+CameraShake_Radius 3
+CameraShake_MagnitudeDegrees 16.2
+
+Spawn_Explosion_On_Dedicated_Server
+Spawn_On_Dedicated_Server
+Relevant_Distance 9999

@@ -1,0 +1,34 @@
+GUID 2b4d1df87ab84deeba5f0b7ac19681e6
+
+Type Magazine
+Rarity Epic
+ID 40028
+
+Use_Auto_Icon_Measurements false
+
+Delete_Empty
+
+Size_X 4
+Size_Y 2
+Size_Z 0.47
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 40022
+
+Tracer
+
+Range 10
+Player_Damage 300
+Zombie_Damage 300
+Animal_Damage 300
+Barricade_Damage 30
+Structure_Damage 30
+Vehicle_Damage 40
+Resource_Damage 60
+Object_Damage 40
+Explosion 40008
+Explosive

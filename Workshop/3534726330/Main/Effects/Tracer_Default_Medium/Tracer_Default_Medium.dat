@@ -1,0 +1,13 @@
+GUID da2433e3613d422bbc47f3ad11871b2d
+
+Type Effect
+ID 40013
+
+Lifetime 60
+
+CameraShake_Radius 3
+CameraShake_MagnitudeDegrees 16.2
+
+Spawn_Explosion_On_Dedicated_Server
+Spawn_On_Dedicated_Server
+Relevant_Distance 9999

@@ -1,0 +1,41 @@
+GUID 357914d98eb54c2ab2b15d500a7ec15f
+
+Type Magazine
+Rarity Epic
+ID 40012
+
+Use_Auto_Icon_Measurements false
+
+Delete_Empty
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Amount 8
+Count_Min 8
+Count_Max 8
+
+Calibers 1
+Caliber_0 40011
+
+Tracer
+
+Range 0
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 40012
+Blueprint_0_Build 30
+

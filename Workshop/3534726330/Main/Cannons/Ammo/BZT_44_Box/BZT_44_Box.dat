@@ -1,0 +1,41 @@
+GUID 1249467ee16e4ac0b15413a4f86ded35
+
+Type Magazine
+Rarity Epic
+ID 40051
+
+Use_Auto_Icon_Measurements false
+
+Delete_Empty
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Amount 150
+Count_Min 150
+Count_Max 150
+
+Calibers 1
+Caliber_0 40050
+
+Tracer 40020
+
+Range 1
+Player_Damage 20
+Zombie_Damage 30
+Animal_Damage 15
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 10
+Resource_Damage 60
+Object_Damage 40
+Explosion 40037
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 40051
+Blueprint_0_Build 30
+

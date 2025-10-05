@@ -1,0 +1,13 @@
+GUID 3802b96e35c6443e841014c8c6f7182b
+
+Type Effect
+ID 40026
+
+Lifetime 30
+
+CameraShake_Radius 15
+CameraShake_MagnitudeDegrees 35
+
+Spawn_Explosion_On_Dedicated_Server
+Spawn_On_Dedicated_Server
+Relevant_Distance 9999

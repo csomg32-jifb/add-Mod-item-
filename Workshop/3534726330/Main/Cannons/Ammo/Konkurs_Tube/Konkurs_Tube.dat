@@ -1,0 +1,34 @@
+GUID d46d66b62e884e84991f6623c9c096a3
+
+Type Magazine
+Rarity Epic
+ID 40044
+
+Use_Auto_Icon_Measurements false
+
+Delete_Empty
+
+Size_X 4
+Size_Y 2
+Size_Z 0.6
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 40043
+
+Tracer
+
+Range 1
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 
+Explosive
