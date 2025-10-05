@@ -1,0 +1,30 @@
+GUID 384bb72159e7405f926206132119bad9
+Type Magazine
+Rarity Epic
+ID 7121
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 100
+Count_Min 10
+Count_Max 100
+
+Calibers 1
+Caliber_0 112
+
+Tracer 48
+Speed 0.75
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 7121
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle
