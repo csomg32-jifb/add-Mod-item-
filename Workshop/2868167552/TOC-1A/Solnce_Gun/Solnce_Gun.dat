@@ -1,0 +1,39 @@
+GUID 8016150f163243a4a5e2774d4638e2c3
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 22271
+
+Sight 22252
+Magazine 22272
+
+Ammo_Min 21
+Ammo_Max 21
+
+Auto
+
+Caliber 29
+
+Firerate 15
+Action Rocket
+
+Player_Damage 400
+Zombie_Damage 400
+Animal_Damage 400
+Barricade_Damage 2000
+Structure_Damage 2000
+Vehicle_Damage 2000
+Resource_Damage 2000
+Object_Damage 2000
+
+Range 25
+Explosion 22253
+
+Ballistic_Force 15000
+
+Muzzle 42
+
+Reload_Time 5
+Turret

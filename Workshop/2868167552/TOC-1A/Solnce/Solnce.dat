@@ -1,0 +1,50 @@
+GUID c13ff345a3734468a31d4d661ec5dbc1
+Type Vehicle
+Rarity Legendary
+ID 22270
+
+Speed_Min -8
+Speed_Max 14
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 24
+
+Fuel_Min 3800
+Fuel_Max 3900
+Fuel 4000
+
+Health_Min 1100
+Health_Max 1200
+Health 1250
+
+Exit 4
+
+Cam_Follow_Distance 7.5
+Cam_Driver_Offset 1.3
+Bumper_Multiplier 2
+Passenger_Explosion_Armor 0.2
+
+Traction
+LockMouse
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 22271
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 30
+Turret_0_Pitch_Max 90
+
+Reclined
+Crawler
+
+Has_Clip_Prefab false

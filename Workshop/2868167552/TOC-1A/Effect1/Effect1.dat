@@ -1,0 +1,9 @@
+GUID f5670ff661a04bb2a7dbba7a61cc4618
+Type Effect
+ID 22253
+
+Spawn_Explosion_On_Dedicated_Server
+Spawn_On_Dedicated_Server
+Relevant_Distance 9000
+
+Asset_Bundle_Version 4
