@@ -1,0 +1,37 @@
+GUID e1d6a73c59ef48b084e4c859bd63d087
+Type Magazine
+Rarity Legendary
+ID 32549
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 250
+Count_Min 50
+Count_Max 150
+
+Calibers 1
+Caliber_0 85
+
+Tracer 55
+
+Range 3
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 1.5
+Structure_Damage 1
+Vehicle_Damage 5
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 32549
+Blueprint_0_Build 30
+
+Delete_Empty

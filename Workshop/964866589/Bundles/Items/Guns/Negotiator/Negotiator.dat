@@ -1,0 +1,98 @@
+GUID 7b8ea30a50594afb8c5116dde2077ad5
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 32545
+
+Size_X 5
+Size_Y 2
+Size_Z 0.5
+Size2_Z 0.725
+
+Magazine 32546
+
+Ammo_Min 0
+Ammo_Max 0
+
+Auto
+
+Caliber 85
+
+Range 150
+Firerate 1
+Unplace 0.36
+Replace 0.56
+Action Minigun
+
+Player_Damage 32
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 32
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1.5
+Structure_Damage 1
+Vehicle_Damage 10
+Resource_Damage 25
+Object_Damage 20
+
+Invulnerable
+Durability 0.04
+
+Spread_Aim 0.175
+Spread_Hip 0.3
+
+Recoil_Min_X -0.2
+Recoil_Min_Y 0.3
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.8
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.01
+Shake_Min_Z -0.01
+Shake_Max_X 0.01
+Shake_Max_Y -0.01
+Shake_Max_Z -0.025
+
+Muzzle 4
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32545
+Blueprint_1_Product 67
+Blueprint_1_Products 6
+Blueprint_1_Build 27
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 32550
+Blueprint_2_Supply_1_ID 32551
+Blueprint_2_Supply_2_ID 32552
+Blueprint_2_Supply_3_ID 32553
+Blueprint_2_Product 32545
+Blueprint_2_Products 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Repair
+Blueprint_2_Build 27

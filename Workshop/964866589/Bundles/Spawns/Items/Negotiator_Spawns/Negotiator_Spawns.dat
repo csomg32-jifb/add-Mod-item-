@@ -1,0 +1,42 @@
+GUID e6f54558e50748ed8e56ffcd146674e8
+Type Spawn
+ID 25010
+
+Roots 6
+Root_0_Spawn_ID 1
+Root_0_Weight 15
+Root_1_Spawn_ID 680
+Root_1_Weight 20
+Root_2_Spawn_ID 540
+Root_2_Weight 20
+Root_3_Spawn_ID 542
+Root_3_Weight 20
+Root_4_Spawn_ID 615
+Root_4_Weight 20
+Root_5_Spawn_ID 2146
+Root_5_Weight 10
+
+
+Tables 11
+Table_0_Asset_ID 32550
+Table_0_Weight 25
+Table_1_Asset_ID 32551
+Table_1_Weight 25
+Table_2_Asset_ID 32552
+Table_2_Weight 25
+Table_3_Asset_ID 32553
+Table_3_Weight 25
+Table_4_Asset_ID 32546
+Table_4_Weight 25
+Table_5_Asset_ID 32590
+Table_5_Weight 10
+Table_6_Asset_ID 32547
+Table_6_Weight 10
+Table_7_Asset_ID 32548
+Table_7_Weight 10
+Table_8_Asset_ID 32549
+Table_8_Weight 5
+Table_9_Asset_ID 32593
+Table_9_Weight 2
+Table_10_Asset_ID 32545
+Table_10_Weight 10
