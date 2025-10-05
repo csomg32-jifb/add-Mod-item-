@@ -1,0 +1,5 @@
+Asset_Bundle_Name launcher_grenade.masterbundle
+
+// Path to the asset bundle within Unity.
+// Unity subfolders should match 1:1 with dat subfolders.
+Asset_Prefix Assets/Launcher_GrenadeMasterBundle
