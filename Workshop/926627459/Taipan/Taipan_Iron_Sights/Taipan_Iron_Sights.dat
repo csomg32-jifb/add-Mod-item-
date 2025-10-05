@@ -1,0 +1,11 @@
+GUID 784c6fe8f2034d1fb561e1462a5ac263
+Type Sight
+ID 7131
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Paintable
+
+Exclude_From_Master_Bundle

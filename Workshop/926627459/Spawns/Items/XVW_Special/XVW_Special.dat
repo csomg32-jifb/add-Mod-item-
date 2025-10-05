@@ -1,0 +1,13 @@
+GUID 0cbcbb7167c54b6b94e44b7679e32a21
+Type Spawn
+ID 7106
+
+Roots 2
+Root_0_Spawn_ID 667
+Root_0_Weight 30
+Root_1_Spawn_ID 783
+Root_1_Weight 30
+
+Tables 1
+Table_0_Asset_ID 7115
+Table_0_Weight 2

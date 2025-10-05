@@ -1,0 +1,31 @@
+GUID 5f64250c0aeb44919bfefb6665552d72
+Type Magazine
+Rarity Legendary
+ID 7111
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 6
+Count_Min 2
+Count_Max 6
+
+Calibers 1
+Caliber_0 45
+
+Tracer 51
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1193
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 7111
+Blueprint_1_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
