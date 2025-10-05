@@ -1,0 +1,242 @@
+GUID 52c66e8cfd2a47fd8332201ae1e30371
+
+Type Vehicle
+Rarity Legendary
+ID 40016
+
+Speed_Min -13
+Speed_Max 13
+
+CrawlerTrackSteering_Torque 8
+CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
+CrawlerTrackSteering_MaxSpeedScale 0.8
+
+Fuel_Min 4000
+Fuel_Max 4000
+Fuel 4000
+
+Fuel_Burn_Rate 3
+
+Can_Steal_Battery false
+
+Health_Min 1500
+Health_Max 2250
+Health 2250
+
+Has_Clip_Prefab false
+
+Cam_Follow_Distance 9
+Bumper_Multiplier 2
+Passenger_Explosion_Armor 0.2
+Bumper_ResourceDamage 115
+Bumper_ObjectDamage 105
+
+Traction
+Crawler
+
+Drops_Max 0
+Drops_Min 0
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 10
+
+Exit 1.5
+
+Explosion_Min_Force_Y 0
+Explosion_Max_Force_Y 0
+Explosion_Min_Force_X 0
+Explosion_Max_Force_X 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_Z 0
+
+Explosion 6
+Invulnerable
+Tires_Invulnerable
+Bumper_Invulnerable
+ShouldExplosionCauseDamage true
+ShouldExplosionBurnMaterials false
+
+Turrets 3
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 40011
+Turret_0_Yaw_Min -20
+Turret_0_Yaw_Max 20
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 40001
+Turret_1_Yaw_Min -360
+Turret_1_Yaw_Max 360
+Turret_1_Pitch_Min 76
+Turret_1_Pitch_Max 94
+
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 40005
+Turret_2_Yaw_Min -7
+Turret_2_Yaw_Max 7
+Turret_2_Pitch_Min 76
+Turret_2_Pitch_Max 94
+
+Carjack_Force_Multiplier 3
+Explosion_Force_Multiplier 2.5
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+	{
+		WheelColliderPath Tires/Tire_4
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_4
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_5
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_5
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+	{
+		WheelColliderPath Tires/Tire_6
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_6
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_7
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_7
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+	{
+		WheelColliderPath Tires/Tire_8
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_8
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_9
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_9
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+	{
+		WheelColliderPath Tires/Tire_10
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_10
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 0
+	}
+	{
+		WheelColliderPath Tires/Tire_11
+		SteeringMode CrawlerTrack
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_11
+		ModelUseColliderPose true
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CopyCrawlerTrackSpeedIndex 1
+	}
+]
+
+ForwardGearRatios
+[
+     14.1
+]
+
+GearShift_Duration 0.3
+GearShift_Interval 1
+GearShift_UpThresholdRPM 4000
+GearShift_DownThresholdRPM 2000
+EngineIdleRPM 300
+EngineMaxRPM 3500
+EngineMaxTorque 14
+
+Brake 1.5
+ReverseGearRatio 9.5
+
+EngineSound_Type Legacy
+
+EngineSound
+{
+	IdlePitch 0.6
+	IdleVolume 0.5
+	MaxPitch 1.4
+	MaxVolume 1.2
+}
+
+EWheelMotionEffectsMode
+{
+     BothDirections
+}
+
+EVehicleBuildablePlacementRule
+{
+     Block
+}

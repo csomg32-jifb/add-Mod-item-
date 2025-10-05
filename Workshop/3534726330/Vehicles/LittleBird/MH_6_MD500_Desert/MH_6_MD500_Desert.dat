@@ -1,0 +1,62 @@
+GUID 29f2af9e35fd4f16b4e4a25aa32f8ac1
+
+Type Vehicle
+Rarity Legendary
+ID 40032
+
+Speed_Min -200
+Speed_Max 80
+
+Brake 20 
+
+Steer_Min 15
+Steer_Max 40
+
+Fuel_Min 2750
+Fuel_Max 2750
+Fuel 4000
+
+Fuel_Burn_Rate 2
+
+Health_Min 750
+Health_Max 750
+Health 750
+
+Can_Steal_Battery false
+
+Exit 4
+
+Cam_Follow_Distance 8.5
+
+Bumper_PlayerDamage 190
+Bumper_Multiplier 250
+Bumper_SpeedDamageThreshold 0.1
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion_Min_Force_Y 0
+Explosion_Max_Force_Y 0
+Explosion_Min_Force_X 0
+Explosion_Max_Force_X 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_Z 0
+
+Passenger_Explosion_Armor 0.9
+
+Explosion 6
+ShouldExplosionCauseDamage true
+ShouldExplosionBurnMaterials false
+
+Drops_Min 0
+Drops_Max 0
+
+Has_Clip_Prefab false
+
+EVehicleBuildablePlacementRule
+{
+     Block
+}

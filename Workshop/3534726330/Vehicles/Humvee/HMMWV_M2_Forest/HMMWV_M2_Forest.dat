@@ -1,0 +1,128 @@
+GUID 9c3e4fddb30f4a66a1cfa51a8303cac1
+
+Type Vehicle
+Rarity Legendary
+ID 40069
+
+Speed_Min -20
+Speed_Max 60
+
+Steering_Angle_Turn_Speed 60
+Steer_Min 6
+Steer_Max 30
+
+Can_Steal_Battery false
+
+Fuel_Min 2800
+Fuel_Max 2800
+Fuel 2800
+
+Fuel_Burn_Rate 2
+
+Health_Min 750
+Health_Max 750
+Health 750
+
+Exit 4
+
+Cam_Follow_Distance 8
+Bumper_Multiplier 1
+Passenger_Explosion_Armor 0.6
+Bumper_ResourceDamage 20
+Bumper_ObjectDamage 50
+
+Drops_Max 0
+Drops_Min 0
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion_Min_Force_Y 1.2
+Explosion_Max_Force_Y 0.9
+Explosion_Min_Force_X 0
+Explosion_Max_Force_X 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_Z 0
+
+Explosion 6
+Invulnerable
+Tires_Invulnerable
+ShouldExplosionCauseDamage true
+ShouldExplosionBurnMaterials true
+
+Carjack_Force_Multiplier 1
+Explosion_Force_Multiplier 1.2
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 40038
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 45
+Turret_0_Pitch_Max 105
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+]
+
+ForwardGearRatios
+[
+	23.3
+]
+GearShift_Duration 0.5
+GearShift_Interval 1.2
+GearShift_UpThresholdRPM 3000
+GearShift_DownThresholdRPM 1000
+EngineIdleRPM 150
+EngineMaxRPM 6000
+EngineMaxTorque 6.2
+
+ReverseGearRatio 13.2
+Brake 15
+
+EngineSound_Type Legacy
+EngineSound
+{
+	IdlePitch 0.9
+	IdleVolume 0.8
+	MaxPitch 1.1
+	MaxVolume 1.1
+}
+
+EWheelMotionEffectsMode
+{
+     BothDirections
+}
+
+EVehicleBuildablePlacementRule
+{
+     Block
+}
